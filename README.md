@@ -23,7 +23,7 @@ The `API` folder contains two Python models that utilize APIs:
 
 ## Hand Tracing and Detection
 
-The `HandTracingandDetection` folder contains a file that demonstrates basic hand tracking and landmark detection.
+The `HandTracingandDetection` folder contains a file that demonstrates basic hand tracking and landmark detection. It also contains a Module for hand tracking and landmark detection.
 
 ---
 
