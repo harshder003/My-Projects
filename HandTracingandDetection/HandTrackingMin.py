@@ -1,3 +1,6 @@
+!pip install cv2
+!pip install mediapipe
+
 import cv2
 import mediapipe as mp
 import time
